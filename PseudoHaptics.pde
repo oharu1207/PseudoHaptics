@@ -13,7 +13,6 @@ PVector Velocity = new PVector(0,0);
 PVector Distance = new PVector(0,0);
 float KSpring = 1.0, KDamper = 0.5, Mass = 1.0,KGradient=4.0,dT=0.5;
 
-
 void settings(){
   size(WINDOWX, WINDOWY);
 }
